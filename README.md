@@ -7,6 +7,7 @@ Dhruv Kumar, Databricks Senior Solutions Architect
 and 
 Premal Shah, Azure Databricks PM, Microsoft
 
+Written by: Priya Aswani, WW Data Engineering & AI Technical Lead
 
 Published: June 22, 2019
 
